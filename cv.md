@@ -6,7 +6,7 @@
 ## ABOUT ME
 Detail-oriented, responsible and committed developer, with a keen interest in continuous learning.
 
-##SUMMARY
+##**SUMMARY**
 - Tech Stack : Javascript, React, HTML, CSS3, BootStrap, React.js, Redux
 - Databases: MySQL
 - Methodologies: OOP, Git & Github
@@ -36,9 +36,16 @@ function isValidWalk(walk) {
 ```
 ##WORK EXPERIENCE:
 - Junior Front End Developer | React
+*Developing and designing SPA user interfaces
+    *Started the front end application with React and used state object
+    *React Class Component for stateful management.
+    *Incorporated react-redux for global state management and added redux-thunk for asynchronous handling.
+    * Enhanced user experience with React's life cycle methods.
 
 ##EDUCATION
-
+>Karaganda State Technical University
+-Bachelor's degree in Transport, transport engineering and
+technologies
 
 ##LANGUAGES
 - English C1
