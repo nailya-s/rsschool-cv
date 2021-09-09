@@ -47,7 +47,7 @@ function isValidWalk(walk) {
 -Bachelor's degree in Transport, transport engineering and
 technologies
 
-##LANGUAGES
+_LANGUAGES_
 - English C1
 - Chinese A1
 
